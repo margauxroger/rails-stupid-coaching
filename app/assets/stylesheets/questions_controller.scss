@@ -1,0 +1,17 @@
+// Place all the styles related to the QuestionsController controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.chat {
+  margin: 10px 60px;
+  padding: 10px 20px;
+  border-left-style: solid;
+  border-color: rgba(220,220,220,0.9);
+}
+
+.active {
+  background: rgb(255, 254, 225);
+}
+ #coach {
+  font-weight: bold;
+ }
